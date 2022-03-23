@@ -2,7 +2,7 @@
 
 - :house: Engenheiro Civil
 - :construction: Engenheiro de Segurança do Trabalho
-- :computer: Dev em formação (estudando Front-end e Mobile)
+- :computer: Dev mobile Android em formação (Kotlin)
 <div>
 
 
