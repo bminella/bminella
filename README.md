@@ -1,6 +1,6 @@
 # Hello world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30">
 
-- 💻 Dev mobile Android em formação - Estudando Kotlin 
+- 💻 **Dev mobile Android** em formação - Estudando Kotlin 
 - 🚧 Engenheiro Civil e Engenheiro de Segurança do Trabalho
 - ✒️ Designer Freelancer - Photoshop - Corel - Illustrator - Premiere
 - 💪🏻 Bodybuilding lover
